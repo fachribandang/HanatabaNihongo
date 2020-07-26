@@ -1,0 +1,16 @@
+@charset "utf-8";
+
+body {
+	font-size: 14px;	/*「小」に切り替えた時の文字サイズ*/
+}
+
+/*「小」サイズのボタン設定*/
+#fsize ul li#small a {
+	background: url(../images/fsize_on.png) left center;	/*「オン」の画像に切り替え*/
+}
+
+/*「大」サイズのボタン設定*/
+#fsize ul li#large a {
+	background: url(../images/fsize.png) right center;	/*「オフ」の画像に切り替え*/
+}
+
