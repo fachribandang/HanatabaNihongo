@@ -64,8 +64,11 @@ header #logo img {
 	margin-left: 50px;	/*画像の左にあけるスペース*/
 }
 #NamaWeb{
-padding-left: 200px;
-
+	margin-top: 80px;
+	text-align: center;
+	font-size: 40px;
+	font-style: bold;
+	color:white;
 }
 
 /*上部のメインメニュー
